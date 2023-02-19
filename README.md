@@ -4,10 +4,10 @@ This project aims to train time-series prediction models to predict future produ
 
 ## Tasks
 
-• Imported libraries and dataset
-• Explore dataset
-• Prepared tha data for Facebook Prophet
-• Developed model and made predictions
+• Imported libraries and dataset  
+• Explore dataset  
+• Prepared tha data for Facebook Prophet  
+• Developed model and made predictions  
 
 # Dataset
 
@@ -15,8 +15,12 @@ We have used avocado prices dataset which can be obtained from Kaggle.
 
 # Libraries Used
 
-• pandas
-• numpy
-• matplotlib
-• seaborn
-• fbprophet
+• pandas  
+• numpy  
+• matplotlib  
+• seaborn  
+• fbprophet  
+
+# Author
+
+This project was created by Rohit Banyal.
